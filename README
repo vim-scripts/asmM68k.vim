@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=824
+
+Highlighting for M68K assembly keywords, does not highlight opcodes without a size postfix in order to reduce bugs.
+I\\&#039m sure there are better syntax files for the M68k, I just didn\\&#039t have any installed.
